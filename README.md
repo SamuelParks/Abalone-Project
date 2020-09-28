@@ -60,7 +60,8 @@ The goal of this project is to find the best ML and NN model to predict the numb
     * Simple
     * Deep
 
-
-
+![image](https://user-images.githubusercontent.com/61704055/94387647-c4f27900-0118-11eb-8195-13629721084f.png)
+![image](https://user-images.githubusercontent.com/61704055/94387734-05ea8d80-0119-11eb-8235-b0bc13463b5a.png)
+![image](https://user-images.githubusercontent.com/61704055/94387739-0c790500-0119-11eb-882e-0d110c229499.png)
 
 
