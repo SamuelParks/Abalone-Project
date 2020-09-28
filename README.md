@@ -88,8 +88,3 @@ The goal of this project is to find the best ML and NN model to predict the numb
 ![image](https://user-images.githubusercontent.com/61704055/94388054-eef86b00-0119-11eb-9191-0a908c296a39.png)
 ![image](https://user-images.githubusercontent.com/61704055/94388060-f28bf200-0119-11eb-8791-10bfc40e6455.png)
 ![image](https://user-images.githubusercontent.com/61704055/94388065-f586e280-0119-11eb-9e9a-4c3e7f64dd3c.png)
-
-
-
-
-
